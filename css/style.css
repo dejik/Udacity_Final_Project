@@ -100,12 +100,12 @@ a {
 }
 
 #skills-h3 {
-  color: #f5ae23;
+  color: #A80023;
   display: none;
 }
 
 .orange {
-  background-color: #f5ae23;
+  background-color: #B24C62;
 }
 
 .orange-text {
@@ -118,18 +118,18 @@ a {
 }
 
 .gray {
-  background-color: #f3f3f3;
+  background-color: #4C3D40;
   padding-bottom: 10px;
   clear:both;
 }
 
 .dark-gray {
-  background-color: #4a4a4a;
+  background-color: #884411;
 }
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #115588;
 }
 
 .flex-box {
@@ -211,6 +211,7 @@ span {
   height: 400px;
   width: 100%;
   padding-bottom: 5%;
+  background-color: #884411;
 }
 
 @media only screen and (min-width: 750px) {
@@ -219,3 +220,7 @@ span {
     display: block;
   }
 }
+ 
+#projects{
+  background-color: #A80023;
+} 
